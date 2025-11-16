@@ -1,1 +1,0 @@
-["step", "amount", "oldbalanceOrg", "newbalanceOrig", "oldbalanceDest", "newbalanceDest", "amount_log", "delta_org", "delta_dest", "hour_sim", "type_CASH_IN", "type_CASH_OUT", "type_DEBIT", "type_PAYMENT", "type_TRANSFER", "transfer_risk_score", "cashout_risk_score", "zero_dest_after", "orig_balance_drain", "reverse_flow"]
